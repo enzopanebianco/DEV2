@@ -1,0 +1,14 @@
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.deps.json
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.runtimeconfig.json
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.runtimeconfig.dev.json
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.dll
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.pdb
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.csprojAssemblyReference.cache
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.RazorAssemblyInfo.cache
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.RazorAssemblyInfo.cs
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.AssemblyInfoInputs.cache
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.AssemblyInfo.cs
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.dll
+C:\Users\52742298835\Desktop\Senai.InLock.DataBaseFirst.WebApi\Senai.InLock.DataBaseFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.DataBaseFirst.WebApi.pdb
