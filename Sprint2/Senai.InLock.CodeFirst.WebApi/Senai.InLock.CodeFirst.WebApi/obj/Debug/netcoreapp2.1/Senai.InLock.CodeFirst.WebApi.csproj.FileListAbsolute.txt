@@ -1,0 +1,14 @@
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.deps.json
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.runtimeconfig.json
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.runtimeconfig.dev.json
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.dll
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.csprojAssemblyReference.cache
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.RazorAssemblyInfo.cache
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.RazorAssemblyInfo.cs
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.AssemblyInfoInputs.cache
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.AssemblyInfo.cs
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.pdb
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.dll
+C:\Users\52742298835\Desktop\Senai.InLock.CodeFirst.WebApi\Senai.InLock.CodeFirst.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.CodeFirst.WebApi.pdb
