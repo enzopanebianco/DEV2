@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import Rodape from '../Components/Rodape/Rodape'
 import logo from '../../assets/img/icon-login.png';
-
+import Titulo from '../Components/Titulo';
 class TiposEventos extends Component {
     constructor(){
         super();
         this.state = {
             lista :[],
-            nome:""
+            nome:"",
+            titulomensagem :"Olá,Tipos Eventos"
         }
         this.atualizaEstadoNomeForm = this.atualizaEstadoNome.bind(this);
         
@@ -53,7 +54,8 @@ class TiposEventos extends Component {
 
                 <main className="conteudoPrincipal">
                     <section className="conteudoPrincipal-cadastro">
-                        <h1 className="conteudoPrincipal-cadastro-titulo">Tipos de Eventos</h1>
+                    <Titulo mensagem={this.state.titulomensagem} />
+                    
                         <div className="container" id="conteudoPrincipal-lista">
                             <table id="tabela-lista">
                                 <thead>
@@ -67,7 +69,7 @@ class TiposEventos extends Component {
                                 <tbody >{
                                     this.state.lista.map(function(tipoevento){
                                         return(
-                                            <tr key={this.state.tipoevento}>
+                                            <tr key={tipoevento.id}>
                                                 <td>{tipoevento.id}</td>
                                                 <td>{tipoevento.nome}</td>
                                             </tr>
@@ -77,11 +79,10 @@ class TiposEventos extends Component {
                                 </tbody>
                             </table>
                         </div>
-
+                        <Titulo mensagem="Cadastrar Tipo Evento" />
+                            
                         <div className="container" id="conteudoPrincipal-cadastro">
-                            <h2 className="conteudoPrincipal-cadastro-titulo">
-                                Cadastrar Tipo de Evento
-                  </h2>
+                           
                             <form onSubmit={this.CadastrarTipoEvento.bind(this)}>
                                 <div className="container">
                                     <input

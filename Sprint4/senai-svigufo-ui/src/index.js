@@ -2,18 +2,32 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './pages/Home/App';
-import {Route,BrowserRouter as Router, Switch} from 'react-router-dom';
+import {Route,BrowserRouter as Router, Switch,Redirect} from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 import TiposEventos from './pages/TiposEventos/TiposEventos';
 import NaoEncontrada from './pages/NaoEncontrada/NaoEncontrada';
+import Login from './pages/Login/Login';
+import {usuarioAutenticado} from './services/auth';
+
+
+const Permissao=({component:Component})=>(
+    <Route 
+        render={props=>usuarioAutenticado()? 
+            (<Component {...props}/>):
+            (<Redirect to ={{pathname:'/login',state:{from:props.location}}} />)
+        }
+    />
+    
+);
 
 const rotas=(
     <Router>
         <div>
             <Switch>
             <Route exact path="/" component={App}/>
-            <Route path="/tiposeventos" component={TiposEventos}/>
-            <Route component={NaoEncontrada}/> 
+            <Permissao path="/tiposeventos" component={TiposEventos}/>
+            <Route path="/login" component={Login} />
+            <Route component={NaoEncontrada}/>
             </Switch>
         </div>
     </Router>
