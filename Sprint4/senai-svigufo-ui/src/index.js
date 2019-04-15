@@ -8,6 +8,7 @@ import TiposEventos from './pages/TiposEventos/TiposEventos';
 import NaoEncontrada from './pages/NaoEncontrada/NaoEncontrada';
 import Login from './pages/Login/Login';
 import {usuarioAutenticado} from './services/auth';
+import Cadastro from './pages/Eventos/Eventos';
 
 
 const Permissao=({component:Component})=>(
@@ -27,6 +28,7 @@ const rotas=(
             <Route exact path="/" component={App}/>
             <Permissao path="/tiposeventos" component={TiposEventos}/>
             <Route path="/login" component={Login} />
+            <Route path="/eventos" component={Cadastro} />
             <Route component={NaoEncontrada}/>
             </Switch>
         </div>

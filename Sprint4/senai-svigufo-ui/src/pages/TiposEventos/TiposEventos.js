@@ -14,7 +14,7 @@ class TiposEventos extends Component {
         
     }
     buscarTiposEventos(){
-        fetch('http://localhost:5000/api/tiposeventos')
+        fetch('http://192.168.4.112:5000/api/tiposeventos')
         .then(respota=>respota.json())
         .then(data=>this.setState({lista:data}))
         .catch(erro=>console.log('erro pra listar',erro))
@@ -24,7 +24,7 @@ class TiposEventos extends Component {
     }
     CadastrarTipoEvento(event){
         event.preventDefault();
-        fetch('http://localhost:5000/api/tiposeventos',{
+        fetch('http://192.168.4.112:5000/api/tiposeventos',{
             method:'POST',
             body:JSON.stringify({nome:this.state.nome}),
             headers:{
